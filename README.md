@@ -1,5 +1,5 @@
 # Deep-Learning-for-Image-Classification
-This repository contains a study of the use of CNN's for classification of manuscript images. All details are in the PDF file and the codes and dataset can be checked in the repository.
+This repository contains a study of the use of CNN's for classification of manuscript images. All details are in the PDF file and the codes can be checked in this repository.
 
 In this experiment, a database with images of the months of the year was used, totaling 12 classes. This database contains a total of 1979 samples, 1578 of which were set aside for training and 401 set aside for validation. All images are binary and are in .jpeg format. The first step of the experiment was carried out in the Jupyter Notebook environment.
 
